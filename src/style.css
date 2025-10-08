@@ -1,0 +1,17 @@
+.game-shell {
+  width: 960px;              
+  height: 540px;
+  margin: 24px auto;
+  position: relative;
+  background: #1e293b;        
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: #0b1220;
+  font-family: system-ui, sans-serif;
+}

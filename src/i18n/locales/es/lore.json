@@ -1,0 +1,118 @@
+{
+  "intro": [
+    {
+      "text": "Un d\u00eda en la oficina: La aventura ERNIan"
+    },
+    {
+      "text": "Eres un ERNIan listo para afrontar el d\u00eda, pero como en toda gran aventura, \u00a1las cosas no salen seg\u00fan lo previsto!"
+    },
+    {
+      "text": "Antes de empezar, deja tu huella."
+    },
+    {
+      "text": "(Personaliza tu personaje y nos vamos a la oficina.)"
+    }
+  ],
+  "ch1": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 1: Acceso denegado."
+    },
+    {
+      "text": "Llegas a la oficina de ERNI. Tu tarjeta no funciona."
+    },
+    {
+      "text": "Tocas el timbre. Anna P. va de camino, \u00a1pero tendr\u00e1s que mantener el equilibrio hasta que llegue!"
+    }
+  ],
+  "ch2": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 2: Intercepci\u00f3n de RR. HH."
+    },
+    {
+      "text": "Por fin dentro\u2026 pero RR. HH. te ve."
+    },
+    {
+      "who": "RR. HH.",
+      "text": "\u00a1Necesitamos la evidencia del ATR de ayer y que registres todas tus horas en SAP!"
+    },
+    {
+      "text": "Toca abrirte paso por la burocracia con elegancia."
+    }
+  ],
+  "ch3": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 3: Drama en el escritorio."
+    },
+    {
+      "text": "Llegas a tu mesa\u2026 y hay alguien sentado."
+    },
+    {
+      "text": "Intercambi\u00e1is palabras. \u00bfDiplomacia? \u00bfDeterminaci\u00f3n? \u00a1Se avecina un duelo por el escritorio!"
+    }
+  ],
+  "ch4": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 4: Problemas t\u00e9cnicos."
+    },
+    {
+      "text": "Las pantallas est\u00e1n muertas. Llamas al service desk. Alfredo viene de camino."
+    },
+    {
+      "text": "Mientras tanto, vuelve a cablear como un profesional."
+    }
+  ],
+  "ch5": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 5: La b\u00fasqueda del caf\u00e9."
+    },
+    {
+      "text": "\u00a1A la cocina! La m\u00e1quina est\u00e1 vac\u00eda. Rell\u00e9nala con granos y agua sin derramar ni una gota."
+    }
+  ],
+  "ch6": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 6: Caos en la sala."
+    },
+    {
+      "text": "Tu sala reservada est\u00e1 ocupada. Empiezan las negociaciones\u2026 con estilo."
+    }
+  ],
+  "ch7": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 7: Carrera por el churro."
+    },
+    {
+      "text": "El olor a churros invade el aire. \u00a1Corre a la cocina y adelanta a todos!"
+    }
+  ],
+  "ch8": [
+    {
+      "who": "Narrador",
+      "text": "Cap\u00edtulo 8: Cr\u00f3nicas de fr\u00edo."
+    },
+    {
+      "text": "Hace un fr\u00edo tremendo. Llega a Recepci\u00f3n para pedir subir la temperatura\u2026 o consigue una sudadera de Marketing."
+    },
+    {
+      "text": "\u00a1Evita las r\u00e1fagas heladas del aire acondicionado!"
+    }
+  ],
+  "conclusion": [
+    {
+      "text": "El d\u00eda \u00e9pico: \u00a1superaste problemas t\u00e9cnicos, demandas de RR. HH. y hasta conseguiste un churro!"
+    },
+    {
+      "text": "Al final, no solo eres un ERNIan; eres un h\u00e9roe de la oficina."
+    },
+    {
+      "text": "Veamos los r\u00e9cords de hoy\u2026 (Clasificaci\u00f3n)"
+    }
+  ]
+}

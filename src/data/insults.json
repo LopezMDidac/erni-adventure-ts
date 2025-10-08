@@ -1,0 +1,40 @@
+{
+  "pairs": [
+    {
+      "insult": "Your calendar discipline is as empty as that meeting room.",
+      "retorts": [
+        "Then book it now\u2014so you\u2019ll learn punctuality there."
+      ],
+      "tags": [
+        "office"
+      ]
+    },
+    {
+      "insult": "You manage blockers like a traffic cone in a storm.",
+      "retorts": [
+        "Yet I still keep the lanes clear\u2014watch me move you along."
+      ],
+      "tags": [
+        "agile"
+      ]
+    },
+    {
+      "insult": "Your slides have more fluff than content.",
+      "retorts": [
+        "Perfect\u2014then there\u2019s room for your defeat as the main point."
+      ],
+      "tags": [
+        "presentation"
+      ]
+    },
+    {
+      "insult": "You negotiate like a muted mic on a video call.",
+      "retorts": [
+        "Funny, everyone will still hear me win this room."
+      ],
+      "tags": [
+        "meeting"
+      ]
+    }
+  ]
+}

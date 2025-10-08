@@ -1,0 +1,118 @@
+{
+  "intro": [
+    {
+      "text": "A Day in the Office: The ERNIan Adventure"
+    },
+    {
+      "text": "You\u2019re an ERNIan ready to tackle the day, but as with any great adventure, things don\u2019t go as planned!"
+    },
+    {
+      "text": "Before we begin\u2014make your mark."
+    },
+    {
+      "text": "(Customize your character, then we\u2019ll head to the office.)"
+    }
+  ],
+  "ch1": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 1: Access Denied."
+    },
+    {
+      "text": "You arrive at the ERNI office. Your access card isn\u2019t working."
+    },
+    {
+      "text": "You ring the bell. Anna P. is on her way, but you\u2019ll have to keep your footing until she arrives!"
+    }
+  ],
+  "ch2": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 2: HR Interception."
+    },
+    {
+      "text": "Inside at last\u2014but HR spots you."
+    },
+    {
+      "who": "HR",
+      "text": "We need yesterday\u2019s ATR evidence, and that you book all your hours in SAP!"
+    },
+    {
+      "text": "Time to gracefully weave through bureaucracy."
+    }
+  ],
+  "ch3": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 3: Desk Drama."
+    },
+    {
+      "text": "At your desk\u2026 someone else is sitting there."
+    },
+    {
+      "text": "Words are exchanged. Diplomacy? Determination? A duel of desks ensues!"
+    }
+  ],
+  "ch4": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 4: Tech Trouble."
+    },
+    {
+      "text": "Screens are dead. You call service desk. Alfredo is on the way."
+    },
+    {
+      "text": "Until then, reroute the cables like a pro."
+    }
+  ],
+  "ch5": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 5: Coffee Quest."
+    },
+    {
+      "text": "Kitchen run! The machine is empty. Refill it with beans and water without spilling a drop."
+    }
+  ],
+  "ch6": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 6: Meeting Mayhem."
+    },
+    {
+      "text": "Your reserved room is occupied. Negotiations begin\u2026 with style."
+    }
+  ],
+  "ch7": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 7: Churro Rush."
+    },
+    {
+      "text": "The smell of churros fills the air. Sprint to the kitchen and beat the crowd!"
+    }
+  ],
+  "ch8": [
+    {
+      "who": "Narrator",
+      "text": "Chapter 8: Cold Office Chronicles."
+    },
+    {
+      "text": "It\u2019s freezing. Reach Reception to request the temperature be raised\u2014or snag a cozy hoodie from Marketing."
+    },
+    {
+      "text": "Avoid the icy AC blasts along the way!"
+    }
+  ],
+  "conclusion": [
+    {
+      "text": "The Epic Day: you conquered tech issues, HR demands, and even scored a churro!"
+    },
+    {
+      "text": "By the end, you\u2019re not just an ERNIan; you\u2019re a hero of the office."
+    },
+    {
+      "text": "Let\u2019s see today\u2019s records\u2026 (Leaderboard)"
+    }
+  ]
+}

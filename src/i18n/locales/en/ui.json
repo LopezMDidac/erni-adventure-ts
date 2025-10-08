@@ -1,0 +1,41 @@
+{
+  "title": "A Day in the Office: The ERNIan Adventure",
+  "menu": {
+    "story_mode": "Story Mode",
+    "level_select": "Level Select",
+    "avatar_creator": "Avatar Creator",
+    "leaderboard": "Leaderboard",
+    "language": "Language"
+  },
+  "buttons": {
+    "back": "Back",
+    "retry": "Retry",
+    "continue_story": "Continue Story",
+    "save": "Save",
+    "english": "English",
+    "spanish": "Espa\u00f1ol"
+  },
+  "levels": {
+    "ch1": "Ch1: Access Denied (DoodleJump)",
+    "ch2": "Ch2: HR Interception (Flappy)",
+    "ch3": "Ch3: Desk Drama (Fighting)",
+    "ch4": "Ch4: Tech Trouble (Puzzle)",
+    "ch5": "Ch5: Coffee Quest (Catcher)",
+    "ch6": "Ch6: Meeting Mayhem (Insult Duel)",
+    "ch7": "Ch7: Churro Rush (Race)",
+    "ch8": "Ch8: Cold Office (Stealth)"
+  },
+  "hud": {
+    "ch2_flappy": "Press SPACE to flap",
+    "ch5_instr": "Move with \u2190 \u2192 . Catch beans (\u25cf) and water (\u25ae). Avoid spills (x).",
+    "ch7_instr": "Jump over obstacles. Reach the kitchen!",
+    "ch8_instr": "Reach Reception while avoiding cold blast zones."
+  },
+  "leaderboard": {
+    "title": "Local Leaderboard",
+    "empty": "Play chapters to set records!"
+  },
+  "cutscene": {
+    "click": "Click to continue"
+  }
+}

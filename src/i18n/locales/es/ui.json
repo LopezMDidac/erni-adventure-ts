@@ -1,0 +1,41 @@
+{
+  "title": "Un d\u00eda en la oficina: La aventura ERNIan",
+  "menu": {
+    "story_mode": "Modo historia",
+    "level_select": "Seleccionar cap\u00edtulo",
+    "avatar_creator": "Creador de avatar",
+    "leaderboard": "Clasificaci\u00f3n",
+    "language": "Idioma"
+  },
+  "buttons": {
+    "back": "Volver",
+    "retry": "Reintentar",
+    "continue_story": "Continuar historia",
+    "save": "Guardar",
+    "english": "English",
+    "spanish": "Espa\u00f1ol"
+  },
+  "levels": {
+    "ch1": "Cap. 1: Acceso denegado (DoodleJump)",
+    "ch2": "Cap. 2: Intercepci\u00f3n de RR. HH. (Flappy)",
+    "ch3": "Cap. 3: Drama en el escritorio (Combate)",
+    "ch4": "Cap. 4: Problemas t\u00e9cnicos (Rompecabezas)",
+    "ch5": "Cap. 5: La b\u00fasqueda del caf\u00e9 (Catcher)",
+    "ch6": "Cap. 6: Caos en la sala (Duelo de ingenio)",
+    "ch7": "Cap. 7: Carrera por el churro (Carrera)",
+    "ch8": "Cap. 8: Cr\u00f3nicas de fr\u00edo (Sigilo)"
+  },
+  "hud": {
+    "ch2_flappy": "Pulsa ESPACIO para aletear",
+    "ch5_instr": "Mu\u00e9vete con \u2190 \u2192 . Recoge granos (\u25cf) y agua (\u25ae). Evita derrames (x).",
+    "ch7_instr": "Salta los obst\u00e1culos. \u00a1Llega a la cocina!",
+    "ch8_instr": "Llega a Recepci\u00f3n evitando las zonas de fr\u00edo."
+  },
+  "leaderboard": {
+    "title": "Clasificaci\u00f3n local",
+    "empty": "\u00a1Juega cap\u00edtulos para registrar marcas!"
+  },
+  "cutscene": {
+    "click": "Haz clic para continuar"
+  }
+}
